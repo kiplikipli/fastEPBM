@@ -35,7 +35,8 @@ $("#Pernyataan").prop("checked", true);
 ```
 
 ## How to Use
-1. Open EPBM page in SIMAK
+1. Open EPBM page in SIMAK IPB
 2. Open Web Console in browser ( Ctrl + Shift + I ) in Google Chrome
 3. Copy that code 
 4. Voila your EPBM filled with random between "Setuju" and "Sangat Setuju"
+5. Click submit button
